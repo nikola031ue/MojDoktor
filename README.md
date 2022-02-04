@@ -1,4 +1,5 @@
-# MojDoktor je aplikacija koja olaksava organizaciju pregleda kod doktora<br><hr>
+# MojDoktor
+<h1> MojDoktorje aplikacija koja olaksava organizaciju pregleda kod doktora</h1><br><hr>
 
 <h2>Za izradu projekta korisceno je:</h2><br>
 •za front-end: JSP Pages<br>
